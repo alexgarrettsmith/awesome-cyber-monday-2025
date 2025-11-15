@@ -55,7 +55,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 
 | Product | Description | Discount | Deal Link | Dates |
 |---------|-------------|----------|-----------|-------|
-| | | | | |
+| [FileMinutes](https://www.fileminutes.com/?utm_source=awesome-cyber-monday-2025) | A Better Way to Find Files on Your Mac | 50% OFF with code **BF2025** | [Get Lifetime Deal](https://www.fileminutes.com/pricing/?utm_source=awesome-cyber-monday-2025) | Nov 15 - Dec 7 |
 
 ## 🌐 Hosting & Infrastructure
 
